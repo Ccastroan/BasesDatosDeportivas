@@ -1,0 +1,26 @@
+# Gradle
+.gralde/
+build/
+
+# Kotlin
+.kotlin/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Secretos y config local
+.env
+local.properties
+
+# Datos descargados: CargaCsv.kt los baja solo
+*.csv
+
+#Sistema
+Thumbs.db
+.DS_Store
+# Project exclude paths
+/.gradle/
